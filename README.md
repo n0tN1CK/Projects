@@ -1,2 +1,2 @@
 # Projects
-This contains completed project documentations
+This contains completed projects and documentations
